@@ -7,4 +7,4 @@ def zeroFunc(x):
     return x / 2
 
 
-zeroFunc("A")
+print(zeroFunc())
