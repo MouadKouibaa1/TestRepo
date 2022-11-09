@@ -4,7 +4,7 @@ Function that divide a number in 0
 
 
 def zeroFunc(x):
-    return x / 2
+    return x / 0
 
 
-print(zeroFunc())
+print(zeroFunc(1))
